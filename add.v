@@ -1,4 +1,4 @@
-module test (;
+module adder (
 input wire A,
 input wire B,
 output wire [1:0] x,
